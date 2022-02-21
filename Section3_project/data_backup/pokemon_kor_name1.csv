@@ -1,0 +1,801 @@
+﻿#,Name,Kor_name
+1,Bulbasaur,이상해씨
+2,Ivysaur,이상해풀
+3,Venusaur,이상해꽃
+4,Mega Venusaur,메가 이상해꽃
+5,Charmander,파이리
+6,Charmeleon,리자드
+7,Charizard,리자몽
+8,Mega Charizard X,메가 리자몽 X
+9,Mega Charizard Y,메가 리자몽 Y
+10,Squirtle,꼬부기
+11,Wartortle,어니부기
+12,Blastoise,거북왕
+13,Mega Blastoise,메가 거북왕
+14,Caterpie,캐터피
+15,Metapod,단데기
+16,Butterfree,버터플
+17,Weedle,뿔충이
+18,Kakuna,딱충이
+19,Beedrill,독침붕
+20,Mega Beedrill,메가 독침붕
+21,Pidgey,구구
+22,Pidgeotto,피죤
+23,Pidgeot,피죤투
+24,Mega Pidgeot,메가 피죤투
+25,Rattata,꼬렛
+26,Raticate,레트라
+27,Spearow,깨비참
+28,Fearow,깨비드릴조
+29,Ekans,아보
+30,Arbok,아보크
+31,Pikachu,피카츄
+32,Raichu,라이츄
+33,Sandshrew,모래두지
+34,Sandslash,고지
+35,Nidoran?�,니드킹
+36,Nidorina,니드리나
+37,Nidoqueen,니드퀸
+38,Nidoran??Poison,니드퀸
+39,Nidorino,니드리노
+40,Nidoking,니드킹
+41,Clefairy,삐삐
+42,Clefable,픽시
+43,Vulpix,식스테일
+44,Ninetales,나인테일
+45,Jigglypuff,푸린
+46,Wigglytuff,푸크린
+47,Zubat,주뱃
+48,Golbat,골뱃
+49,Oddish,뚜벅쵸
+50,Gloom,냄새꼬
+51,Vileplume,라플레시아
+52,Paras,파라스
+53,Parasect,파라섹트
+54,Venonat,콘팡
+55,Venomoth,도나리
+56,Diglett,디그다
+57,Dugtrio,닥트리오
+58,Meowth,나옹
+59,Persian,페르시온
+60,Psyduck,고라파덕
+61,Golduck,골덕
+62,Mankey,망키
+63,Primeape,성원숭
+64,Growlithe,가디
+65,Arcanine,윈디
+66,Poliwag,발챙이
+67,Poliwhirl,슈륙챙이
+68,Poliwrath,강챙이
+69,Abra,캐이시
+70,Kadabra,윤겔라
+71,Alakazam,후딘
+72,Mega Alakazam,메가 정룡
+73,Machop,알통몬
+74,Machoke,근육몬
+75,Machamp,괴력몬
+76,Bellsprout,모다피
+77,Weepinbell,우츠동
+78,Victreebel,우츠보트
+79,Tentacool,왕눈해
+80,Tentacruel,독파리
+81,Geodude,꼬마돌
+82,Graveler,데구리
+83,Golem,딱구리
+84,Ponyta,포니타
+85,Rapidash,날쌩마
+86,Slowpoke,야돈
+87,Slowbro,야도란
+88,Mega Slowbro,메가 야도란
+89,Magnemite,코일
+90,Magneton,레어코일
+91,Farfetch'd,파오리
+92,Doduo,두두
+93,Dodrio,두트리오
+94,Seel,쥬쥬
+95,Dewgong,쥬레곤
+96,Grimer,질퍽이
+97,Muk,질뻐기
+98,Shellder,셀러
+99,Cloyster,파르셀
+100,Gastly,고오스
+101,Haunter,고우스트
+102,Gengar,팬텀
+103,Mega Gengar,메가 팬텀
+104,Onix,롱스톤
+105,Drowzee,슬리프
+106,Hypno,슬리퍼
+107,Krabby,크랩
+108,Kingler,킹크랩
+109,Voltorb,찌리리공
+110,Electrode,붐볼
+111,Exeggcute,아라리
+112,Exeggutor,나시
+113,Cubone,탕구리
+114,Marowak,텅구리
+115,Hitmonlee,시라소몬
+116,Hitmonchan,홍수몬
+117,Lickitung,내루미
+118,Koffing,또가스
+119,Weezing,또도가스
+120,Rhyhorn,뿔카노
+121,Rhydon,코뿌리
+122,Chansey,럭키
+123,Tangela,덩쿠리
+124,Kangaskhan,캥카
+125,Mega Kangaskhan,메가 캥카
+126,Horsea,쏘드라
+127,Seadra,시드라
+128,Goldeen,콘치
+129,Seaking,왕콘치
+130,Staryu,별가사리
+131,Starmie,아쿠스타
+132,Mr. Mime,마임맨
+133,Scyther,스라크
+134,Jynx,루주라
+135,Electabuzz,에레브
+136,Magmar,마그마
+137,Pinsir,쁘사이저
+138,Mega Pinsir,메가 쁘사이져
+139,Tauros,켄타로스
+140,Magikarp,잉어킹
+141,Gyarados,갸라도스
+142,Mega Gyarados,메가 가랴도스
+143,Lapras,라프라스
+144,Ditto,메타몽
+145,Eevee,이브이
+146,Vaporeon,샤미드
+147,Jolteon,쥬피썬더
+148,Flareon,부스터
+149,Porygon,폴리곤
+150,Omanyte,암나이트
+151,Omastar,암스타
+152,Kabuto,투구
+153,Kabutops,투구푸스
+154,Aerodactyl,프테라
+155,Mega Aerodactyl,메가 프테라
+156,Snorlax,잠만보
+157,Articuno,프리져
+158,Zapdos,썬더
+159,Moltres,파이어
+160,Dratini,미뇽
+161,Dragonair,신뇽
+162,Dragonite,망나뇽
+163,Mewtwo,뮤츠
+164,Mega Mewtwo X,메가 뮤츠  X
+165,Mega Mewtwo Y,메가 뮤츠 Y
+166,Mew,뮤
+167,Chikorita,치코리타
+168,Bayleef,베이리프
+169,Meganium,메가니움
+170,Cyndaquil,브케인
+171,Quilava,마그케인
+172,Typhlosion,블레이범
+173,Totodile,리아코
+174,Croconaw,엘리게이
+175,Feraligatr,장크로다일
+176,Sentret,꼬리선
+177,Furret,다꼬리
+178,Hoothoot,부우부
+179,Noctowl,야부엉
+180,Ledyba,레디바
+181,Ledian,레디안
+182,Spinarak,페이검
+183,Ariados,아리아도스
+184,Crobat,크로뱃
+185,Chinchou,초라기
+186,Lanturn,랜턴
+187,Pichu,피츄
+188,Cleffa,삐
+189,Igglybuff,푸푸린
+190,Togepi,토게피
+191,Togetic,토게틱
+192,Natu,네이티
+193,Xatu,네이티오
+194,Mareep,메리프
+195,Flaaffy,보송송
+196,Ampharos,전룡
+197,Mega Ampharos,메가 전룡
+198,Bellossom,아르코
+199,Marill,마릴
+200,Azumarill,마릴리
+201,Sudowoodo,꼬지모
+202,Politoed,왕구리
+203,Hoppip,통통코
+204,Skiploom,두코
+205,Jumpluff,솜솜코
+206,Aipom,에이팜
+207,Sunkern,해너츠
+208,Sunflora,해루미
+209,Yanma,왕자리
+210,Wooper,우파
+211,Quagsire,누오
+212,Espeon,에브이
+213,Umbreon,블래키
+214,Murkrow,니로우
+215,Slowking,야도킹
+216,Misdreavus,무우마
+217,Unown,안농
+218,Wobbuffet,마자용
+219,Girafarig,키링키
+220,Pineco,피콘
+221,Forretress,쏘콘
+222,Dunsparce,노고치
+223,Gligar,글라이거
+224,Steelix,강철톤
+225,Mega Steelix,메가 강철톤
+226,Snubbull,블루
+227,Granbull,그랑블루
+228,Qwilfish,침바루
+229,Scizor,핫삼
+230,Mega Scizor,메가 핫삼
+231,Shuckle,단단지
+232,Heracross,헤라크로스
+233,Mega Heracross,메가 헤라크로스
+234,Sneasel,포푸니
+235,Teddiursa,깜지곰
+236,Ursaring,링곰
+237,Slugma,마그마그
+238,Magcargo,마그카르고
+239,Swinub,꾸꾸리
+240,Piloswine,메꾸리
+241,Corsola,코산호
+242,Remoraid,총어
+243,Octillery,대포무노
+244,Delibird,딜리버드
+245,Mantine,만타인
+246,Skarmory,무장조
+247,Houndour,델빌
+248,Houndoom,헬가
+249,Mega Houndoom,메가 헬가
+250,Kingdra,킹드라
+251,Phanpy,코코리
+252,Donphan,코리갑
+253,Porygon2,폴리곤2
+254,Stantler,노라키
+255,Smeargle,루브도
+256,Tyrogue,배루키
+257,Hitmontop,카포에라
+258,Smoochum,뽀뽀라
+259,Elekid,에레키드
+260,Magby,마그비
+261,Miltank,밀탱크
+262,Blissey,해피너스
+263,Raikou,라이코
+264,Entei,앤테이
+265,Suicune,스이쿤
+266,Larvitar,애버라스
+267,Pupitar,데기라스
+268,Tyranitar,마기라스
+269,Mega Tyranitar,메가 마기라스
+270,Lugia,루기아
+271,Ho-oh,칠색조
+272,Celebi,세레비
+273,Treecko,나무지기
+274,Grovyle,나무돌이
+275,Sceptile,나무킹
+276,Mega Sceptile,메가 나무킹
+277,Torchic,아차모
+278,Combusken,영치코
+279,Blaziken,번치코
+280,Mega Blaziken,메가 번치고
+281,Mudkip,물짱이
+282,Marshtomp,늪짱이
+283,Swampert,대짱이
+284,Mega Swampert,메가 대짱이
+285,Poochyena,포챠나
+286,Mightyena,그라에나
+287,Zigzagoon,지그제구리
+288,Linoone,직구리
+289,Wurmple,개무소
+290,Silcoon,실쿤
+291,Beautifly,뷰티플라이
+292,Cascoon,카스쿤
+293,Dustox,독케일
+294,Lotad,연꽃몬
+295,Lombre,로토스
+296,Ludicolo,로파파
+297,Seedot,도토링
+298,Nuzleaf,잎새코
+299,Shiftry,다탱구
+300,Taillow,테일로
+301,Swellow,스왈로
+302,Wingull,갈모매
+303,Pelipper,패리퍼
+304,Ralts,랄토스
+305,Kirlia,킬리아
+306,Gardevoir,가디안
+307,Mega Gardevoir,메가 가디안
+308,Surskit,비구술
+309,Masquerain,비나방
+310,Shroomish,버섯꼬
+311,Breloom,버섯모
+312,Slakoth,게을로
+313,Vigoroth,발바로
+314,Slaking,게을킹
+315,Nincada,토중몬
+316,Ninjask,아이스크
+317,Shedinja,껍질몬
+318,Whismur,소곤룡
+319,Loudred,노공룡
+320,Exploud,폭음룡
+321,Makuhita,마크탕
+322,Hariyama,하리뭉
+323,Azurill,루리리
+324,Nosepass,코코파스
+325,Skitty,에나비
+326,Delcatty,델케티
+327,Sableye,깜까미
+328,Mega Sableye,메가 깜까미
+329,Mawile,입치트
+330,Mega Mawile,메가 입치트
+331,Aron,가보리
+332,Lairon,갱도라
+333,Aggron,보스로라
+334,Mega Aggron,메가 보스로라
+335,Meditite,요가랑
+336,Medicham,요가램
+337,Mega Medicham,메가 요가램
+338,Electrike,썬더라이
+339,Manectric,썬더볼트
+340,Mega Manectric,메가 썬더볼트
+341,Plusle,플러시
+342,Minun,마이농
+343,Volbeat,볼비트
+344,Illumise,네오비트
+345,Roselia,로젤리아
+346,Gulpin,꼴깍몬
+347,Swalot,꿀꺽몬
+348,Carvanha,샤프니아
+349,Sharpedo,샤크니아
+350,Mega Sharpedo,메가 샤크니아
+351,Wailmer,고래왕자
+352,Wailord,고래왕
+353,Numel,둔타
+354,Camerupt,폭타
+355,Mega Camerupt,메가 폭타
+356,Torkoal,코터스
+357,Spoink,피그점프
+358,Grumpig,피그킹
+359,Spinda,얼루기
+360,Trapinch,톱치
+361,Vibrava,비브라바
+362,Flygon,플라이곤
+363,Cacnea,선인왕
+364,Cacturne,밤선인
+365,Swablu,파비코
+366,Altaria,파비코리
+367,Mega Altaria,메가 파비코리
+368,Zangoose,쟝고
+369,Seviper,세비퍼
+370,Lunatone,루나톤
+371,Solrock,솔록
+372,Barboach,미꾸리
+373,Whiscash,메깅
+374,Corphish,가재군
+375,Crawdaunt,가재장군
+376,Baltoy,오뚝군
+377,Claydol,점토도리
+378,Lileep,릴링
+379,Cradily,릴리요
+380,Anorith,아노딥스
+381,Armaldo,아말도
+382,Feebas,빈티나
+383,Milotic,밀로틱
+384,Castform,캐스퐁
+385,Kecleon,켈리몬
+386,Shuppet,어둠대신
+387,Banette,다크펫
+388,Mega Banette,메가 다크펫
+389,Duskull,해골몽
+390,Dusclops,미라몽
+391,Tropius,트로피우스
+392,Chimecho,치렁
+393,Absol,앱솔
+394,Mega Absol,메가 앱솔
+395,Wynaut,마자
+396,Snorunt,눈꼬마
+397,Glalie,얼음귀신
+398,Mega Glalie,메가 얼음귀신
+399,Spheal,대굴레오
+400,Sealeo,씨레오
+401,Walrein,씨카이저
+402,Clamperl,진주몽
+403,Huntail,헌테일
+404,Gorebyss,분홍장이
+405,Relicanth,시라칸
+406,Luvdisc,사랑동이
+407,Bagon,아공이
+408,Shelgon,쉘곤
+409,Salamence,보만다
+410,Mega Salamence,메가 보만다
+411,Beldum,메탕
+412,Metang,메탕구
+413,Metagross,메타그로스
+414,Mega Metagross,메가 메타그로스
+415,Regirock,레지락
+416,Regice,레지아이스
+417,Registeel,레지스틸
+418,Latias,라티아스
+419,Mega Latias,메가 라티아스
+420,Latios,라티오스
+421,Mega Latios,메가 라티오스
+422,Kyogre,가이오가
+423,Primal Kyogre,원시회귀 가이오가
+424,Groudon,그란돈
+425,Primal Groudon,원시회귀 그란돈
+426,Rayquaza,레쿠쟈
+427,Mega Rayquaza,메가 레쿠자
+428,Jirachi,지라치
+429,Deoxys Normal Forme,테오키스 노말폼
+430,DeoxysAttack Forme,테오키스 어택폼
+431,Deoxys Defense Forme,테오키스 디펜스폼
+432,Deoxys Speed Forme,테오키스 스피드폼
+433,Turtwig,모부기
+434,Grotle,수풀부기
+435,Torterra,토대부기
+436,Chimchar,불꽃숭이
+437,Monferno,파이숭이
+438,Infernape,초염몽
+439,Piplup,팽도리
+440,Prinplup,팽태자
+441,Empoleon,엠페르트
+442,Starly,찌르꼬
+443,Staravia,찌르버드
+444,Staraptor,찌르호크
+445,Bidoof,비버니
+446,Bibarel,비버통
+447,Kricketot,귀뚤뚜기
+448,Kricketune,귀뚤톡크
+449,Shinx,꼬링크
+450,Luxio,럭시오
+451,Luxray,렌트라
+452,Budew,꼬몽울
+453,Roserade,로즈레이드
+454,Cranidos,두개도스
+455,Rampardos,램펄드
+456,Shieldon,방패톱스
+457,Bastiodon,바리톱스
+458,Burmy,도롱충이
+459,Wormadam Plant Cloak,도롱마담 초목도롱
+460,Wormadam Sandy Cloak,도롱마담 모래땅도롱
+461,Wormadam Trash Cloak,모롱마담 슈레도롱
+462,Mothim,나메일
+463,Combee,세꿀버리
+464,Vespiquen,비퀸
+465,Pachirisu,파치리스
+466,Buizel,브이젤
+467,Floatzel,플로젤
+468,Cherubi,체리버
+469,Cherrim,체리꼬
+470,Shellos,깝질무
+471,Gastrodon,트리토돈
+472,Ambipom,겟핸보숭
+473,Drifloon,흔들풍손
+474,Drifblim,둥실라이드
+475,Buneary,이어롤
+476,Lopunny,이어롭
+477,Mega Lopunny,메가 이어롭
+478,Mismagius,무우마직
+479,Honchkrow,돈크로우
+480,Glameow,나옹마
+481,Purugly,몬냥이
+482,Chingling,랑딸랑
+483,Stunky,스컹뿡
+484,Skuntank,스컹탱크
+485,Bronzor,동미러
+486,Bronzong,동탁군
+487,Bonsly,꼬지지
+488,Mime Jr.,흉내내
+489,Happiny,핑복
+490,Chatot,페라페
+491,Spiritomb,화강돌
+492,Gible,딥상어동
+493,Gabite,한바이트
+494,Garchomp,한카리아스
+495,Mega Garchomp,메가 한카리아스
+496,Munchlax,먹고자
+497,Riolu,리오르
+498,Lucario,루카리오
+499,Mega Lucario,메가 루카리오
+500,Hippopotas,히포포타스
+501,Hippowdon,하마돈
+502,Skorupi,스콜피
+503,Drapion,드래피온
+504,Croagunk,삐딱구리
+505,Toxicroak,독개굴
+506,Carnivine,무스틈니
+507,Finneon,형광어
+508,Lumineon,네오라이트
+509,Mantyke,타만타
+510,Snover,눈쓰개
+511,Abomasnow,눈설왕
+512,Mega Abomasnow,메가 눈설왕
+513,Weavile,포푸니라
+514,Magnezone,자포코일
+515,Lickilicky,내룸벨트
+516,Rhyperior,거대코뿌리
+517,Tangrowth,덩쿠림보
+518,Electivire,에레키블
+519,Magmortar,마그마번
+520,Togekiss,토게키스
+521,Yanmega,메가자리
+522,Leafeon,리피아
+523,Glaceon,글레이시아
+524,Gliscor,글라이온
+525,Mamoswine,맘모꾸리
+526,Porygon-Z,폴리곤Z
+527,Gallade,엘레이드
+528,Mega Gallade,메가 엘레이드
+529,Probopass,대코파스
+530,Dusknoir,야느와르몽
+531,Froslass,눈여아
+532,Rotom,로토무
+533,Heat Rotom,히트로토무
+534,Wash Rotom,워시로토무
+535,Frost Rotom,프로스트로토무
+536,Fan Rotom,스핀로토무
+537,Mow Rotom,커트로토무
+538,Uxie,유크시
+539,Mesprit,엠라이트
+540,Azelf,아그놈
+541,Dialga,디아루가
+542,Palkia,펄기아
+543,Heatran,히드런
+544,Regigigas,레지기가스
+545,Giratina Altered Forme,기라티나 어나더폼
+546,Giratina Origin Forme,기라티나 오리진폼
+547,Cresselia,크레세리아
+548,Phione,피오네
+549,Manaphy,마나피
+550,Darkrai,다크라이
+551,Shaymin Land Forme,쉐이미 랜드폼
+552,Shaymin Sky Forme,쉐이미 스카이폼
+553,Arceus,아르세우스
+554,Victini,비크티니
+555,Snivy,주리비얀
+556,Servine,샤비
+557,Serperior,샤로다
+558,Tepig,뚜꾸리
+559,Pignite,챠오꿀
+560,Emboar,염무왕
+561,Oshawott,수댕이
+562,Dewott,쌍검자비
+563,Samurott,대검귀
+564,Patrat,보르쥐
+565,Watchog,보르그
+566,Lillipup,요테리
+567,Herdier,하데리어
+568,Stoutland,바랜드
+569,Purrloin,쌔비냥
+570,Liepard,레파르다스
+571,Pansage,야나프
+572,Simisage,야나키
+573,Pansear,바오프
+574,Simisear,바오키
+575,Panpour,앗차프
+576,Simipour,앗차키
+577,Munna,몽나
+578,Musharna,몽얌나
+579,Pidove,콩둘기
+580,Tranquill,유토브
+581,Unfezant,켄호로우
+582,Blitzle,줄뮤마
+583,Zebstrika,제브라이카
+584,Roggenrola,단굴
+585,Boldore,암트르
+586,Gigalith,기가이어스
+587,Woobat,또르박쥐
+588,Swoobat,맘박쥐
+589,Drilbur,두더류
+590,Excadrill,몰드류
+591,Audino,다부니
+592,Mega Audino,메가 다부니
+593,Timburr,으랏차
+594,Gurdurr,토쇠골
+595,Conkeldurr,노보청
+596,Tympole,동챙이
+597,Palpitoad,두까비
+598,Seismitoad,두빅굴
+599,Throh,던지미
+600,Sawk,타격귀
+601,Sewaddle,두르보
+602,Swadloon,두르쿤
+603,Leavanny,모아머
+604,Venipede,마디네
+605,Whirlipede,휠구
+606,Scolipede,펜드라
+607,Cottonee,소미안
+608,Whimsicott,엘풍
+609,Petilil,치릴리
+610,Lilligant,드레디어
+611,Basculin,배쓰나이
+612,Sandile,깜눈크
+613,Krokorok,악비르
+614,Krookodile,악비아르
+615,Darumaka,달막화
+616,Darmanitan Standard Mode,불미달마 
+617,Darmanitan Zen Mode,불미달마 달마모드
+618,Maractus,마라카치
+619,Dwebble,돌살이
+620,Crustle,암팰리스
+621,Scraggy,곤율랭
+622,Scrafty,곤율거니
+623,Sigilyph,심보러
+624,Yamask,데스마스
+625,Cofagrigus,데스니칸
+626,Tirtouga,프로토가
+627,Carracosta,늑골라
+628,Archen,아켄
+629,Archeops,아케오스
+630,Trubbish,깨봉이
+631,Garbodor,더스트나
+632,Zorua,조로아
+633,Zoroark,조로아크
+634,Minccino,치라미
+635,Cinccino,치라치노
+636,Gothita,고디탱
+637,Gothorita,고디보미
+638,Gothitelle,고디모아젤
+639,Solosis,유니란
+640,Duosion,듀란
+641,Reuniclus,란쿨루스
+642,Ducklett,꼬지보리
+643,Swanna,스완나
+644,Vanillite,바닐프티
+645,Vanillish,바닐리치
+646,Vanilluxe,배바닐라
+647,Deerling,사철록
+648,Sawsbuck,바라철록
+649,Emolga,에몽가
+650,Karrablast,딱정곤
+651,Escavalier,슈바르고
+652,Foongus,깜놀버슬
+653,Amoonguss,뽀록나
+654,Frillish,탱그릴
+655,Jellicent,탱탱겔
+656,Alomomola,맘복치
+657,Joltik,파쪼옥
+658,Galvantula,전툴라
+659,Ferroseed,철시드
+660,Ferrothorn,너트령
+661,Klink,기어르
+662,Klang,기기어르
+663,Klinklang,기기기어르
+664,Tynamo,저리어
+665,Eelektrik,저리릴
+666,Eelektross,저리더프
+667,Elgyem,리그레
+668,Beheeyem,벰크
+669,Litwick,불켜미
+670,Lampent,램프라
+671,Chandelure,샹델라
+672,Axew,터검니
+673,Fraxure,액슨도
+674,Haxorus,액스라이즈
+675,Cubchoo,코고미
+676,Beartic,툰베어
+677,Cryogonal,프리지오
+678,Shelmet,쪼마리
+679,Accelgor,어지리더
+680,Stunfisk,메더
+681,Mienfoo,비조푸
+682,Mienshao,비조도
+683,Druddigon,크리만
+684,Golett,골비람
+685,Golurk,골루그
+686,Pawniard,자망칼
+687,Bisharp,절각참
+688,Bouffalant,버프론
+689,Rufflet,수리둥보
+690,Braviary,워글
+691,Vullaby,벌차이
+692,Mandibuzz,버랜지나
+693,Heatmor,앤티골
+694,Durant,아이앤트
+695,Deino,모노두
+696,Zweilous,디헤드
+697,Hydreigon,삼삼드래
+698,Larvesta,활화르바
+699,Volcarona,불카모스
+700,Cobalion,코바르온
+701,Terrakion,테라키온
+702,Virizion,비리디온
+703,Tornadus Incarnate Forme,토네로스 화신폼
+704,Tornadus Therian Forme,토네로스 영물폼
+705,Thundurus Incarnate Forme,볼트로스 화신폼
+706,Thundurus Therian Forme,볼트로스 영물폼
+707,Reshiram,레시라무
+708,Zekrom,제크로무
+709,Landorus Incarnate Forme,랜드로스 화신폼
+710,Landorus Therian Forme,랜드로스 영물폼
+711,Kyurem,큐레무
+712,Kyurem Black Kyurem,블랙 큐레무
+713,Kyurem White Kyurem,화이트 큐레무
+714,Keldeo Ordinary Forme,케르디오 
+715,Keldeo Resolute Forme,케르디오 각오의 모습
+716,Meloetta Aria Forme,메로엣타 아리아폼
+717,Meloetta Pirouette Forme,메로엣타 스텝폼
+718,Genesect,게노세크트
+719,Chespin,도치마론
+720,Quilladin,도치보구
+721,Chesnaught,브리가론
+722,Fennekin,푸호꼬
+723,Braixen,테르나
+724,Delphox,마폭시
+725,Froakie,개구마르
+726,Frogadier,개굴반장
+727,Greninja,개굴닌자
+728,Bunnelby,파르빗
+729,Diggersby,파르토
+730,Fletchling,화살꼬빈
+731,Fletchinder,불화살빈
+732,Talonflame,파이어로
+733,Scatterbug,분이벌레
+734,Spewpa,분떠도리
+735,Vivillon,비비용
+736,Litleo,레오꼬
+737,Pyroar,화염레오
+738,Flabébé,플라베베
+739,Floette,플라엣테
+740,Florges,플라제스
+741,Skiddo,메이클
+742,Gogoat,고고트
+743,Pancham,판짱
+744,Pangoro,부란다
+745,Furfrou,트리미앙
+746,Espurr,냐스퍼
+747,Meowstic Male,냐오키스 수컷
+748,Meowstic Female,냐오키스 암컷
+749,Honedge,단칼빙
+750,Doublade,쌍검킬
+751,Aegislash Blade Forme,킬가르도 블레이드폼
+752,Aegislash Shield Forme,킬가르도 실드폼
+753,Spritzee,슈쁘
+754,Aromatisse,프레프티르
+755,Swirlix,나룸퍼프
+756,Slurpuff,나루림
+757,Inkay,오케이징
+758,Malamar,칼라마네로
+759,Binacle,거북손손
+760,Barbaracle,거북손데스
+761,Skrelp,수레기
+762,Dragalge,드래캄
+763,Clauncher,완철포
+764,Clawitzer,블로스터
+765,Helioptile,목도리키텔
+766,Heliolisk,일레도리자드
+767,Tyrunt,티고라스
+768,Tyrantrum,견고라스
+769,Amaura,아마루스
+770,Aurorus,아마루르가
+771,Sylveon,님피아
+772,Hawlucha,루차불
+773,Dedenne,데덴네
+774,Carbink,멜리시
+775,Goomy,미끄메라
+776,Sliggoo,미끄네일
+777,Goodra,미끄래곤
+778,Klefki,클레피
+779,Phantump,나목령
+780,Trevenant,대로트
+781,Pumpkaboo Average Size,호바귀 평균 사이즈
+782,Pumpkaboo Small Size,호바귀 작은 사이즈
+783,Pumpkaboo Large Size,호바귀 큰 사이즈
+784,Pumpkaboo Super Size,호바귀 슈퍼 사이즈
+785,Gourgeist Average Size,펌킨인 평균 사이즈
+786,Gourgeist Small Size,펌킨인 작은 사이즈
+787,Gourgeist Large Size,펌킨인 큰 사이즈
+788,Gourgeist Super Size,펌킨인 슈퍼 사이즈
+789,Bergmite,꽁어름
+790,Avalugg,크레베이스
+791,Noibat,음뱃
+792,Noivern,음번
+793,Xerneas,제르네아스
+794,Yveltal,이벨타르
+795,Zygarde Half Forme,지가르데 하프폼
+796,Diancie,디안시
+797,Mega Diancie,메가 디안시
+798,Hoopa Confined,굴레를 벗어난 후파
+799,Hoopa Unbound,굴레에 빠진 후파
+800,Volcanion,볼케니온
