@@ -1,7 +1,5 @@
 # poke_winner_go
 
-## MENTAL  ILLNESS Machine Learning Analysis
-
 ## 🛠 서비스 개요
 포켓몬스터 게임을 하다 보면  NPC의 포켓몬에 지기도 한다.
 포켓몬 타입만 18개, 두번째 타입을 가진 포켓몬의 경우의 수 까지 합하면 총 (18*17-16)=290 종류의 타입이 존재
@@ -20,12 +18,16 @@ kaggle Pokemon- Weedle's Cave(https://www.kaggle.com/datasets/terminus7/pokemon-
 에서 제공하는 포켓몬 승리, 패배 데이터 5만건
 
 ## 🧹 데이터 전처리
+
+
+
 SQLite 와 DBeaver를 사용하야 데이터를 정리후 한글화
+
 Flask를 통해 포켓몬 두 마리의 이름을 입력하면 어떤 포켓몬이 이길 확률이 높은지 나오는 API를 개발
 
 ## 🛠 한계
 
-## ✔️ 결과
+## ✔️ API 
 
-## 🔍 결과 
+## 🔍 Metabase 시각화 
 
