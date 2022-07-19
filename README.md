@@ -12,10 +12,12 @@
 ## ❓ 데이터
 
 포켓몬 6세대 X,Y 721 기준
-메가 진화, 다른 폼의 포켓몬을 포함하여 
-총 800 마리의 포켓몬 Pokemon with stats(https://www.kaggle.com/datasets/abcsds/pokemon)
+메가 진화, 다양한 폼의 포켓몬을 포함하여 
+총 800 마리의 포켓몬 
+Pokemon with stats(https://www.kaggle.com/datasets/abcsds/pokemon)
 
-kaggle Pokemon- Weedle's Cave(https://www.kaggle.com/datasets/terminus7/pokemon-challenge)
+kaggle
+Pokemon  Weedle's Cave(https://www.kaggle.com/datasets/terminus7/pokemon-challenge)
 에서 제공하는 포켓몬 승리, 패배 데이터 5만건
 
 ## 🧹 데이터 전처리
