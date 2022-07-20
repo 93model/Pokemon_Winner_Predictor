@@ -30,13 +30,17 @@ Pokemon  Weedle's Cave(https://www.kaggle.com/datasets/terminus7/pokemon-challen
 
 ## 🧹 데이터 파이프라인
 
+![캡처](/img/data_pipeline.PNG)
+
 SQLite 와 DBeaver를 사용하야 데이터를 정리후 한글화
 
 Flask를 통해 포켓몬 두 마리의 이름을 입력하면 어떤 포켓몬이 이길 확률이 높은지 나오는 API를 개발
 
 ## ✔️ API 
 ![캡처](/img/index.png)
-![캡처](/img/result.png)
+입력
 
+![캡처](/img/result.png)
+결과
 ## 🔍 Metabase 시각화 
 ![캡처](/img/metabase.png)
